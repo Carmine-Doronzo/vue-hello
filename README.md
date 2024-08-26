@@ -1,3 +1,6 @@
+Primissimo esercizio utilizzando Vue.js da cdn nel quale, utilizzando lo snippet iniziale fornitoci dal sito ufficiale, inserire un'immagine e la scritta 'CIAO MONDO'.
+A seguire ci sono delle domande che poi sarebbero state fatte la mattina dopo a lezione e delle definizioni su quello che è e che si può fare con Vue.js
+
 - cosa sono gli sfc o componenti a singolo file e come si implementano?
 - cosa e' un virtual DOM?
 - vulnerabilita' XSS cosa sono?
